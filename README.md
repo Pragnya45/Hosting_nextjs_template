@@ -23,9 +23,6 @@ if you want me to install and integrate emailjs, I can do this for US$ 10 only.
 Please contact me to discuss further.
 
 
-## HTML Version
-If you want me to convert this template into HTML version, I can do this for US$ 120
-Please contact me to discuss further.
 
 
 ## WordPress Version
@@ -45,7 +42,3 @@ I can integrate WHMCS and create a similar WHMCS theme for US$ 250
 - Figma
 
 
-# Contact Developer
-https://dewcodes.com/contact
-
-You can also mail me at: ravi9793@gmail.com
